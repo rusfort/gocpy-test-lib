@@ -2,7 +2,6 @@ package gtl
 
 import (
 	"std/fmt"
-	"std/errors"	
 )
 
 func PrintBibaBoba() {
