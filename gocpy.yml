@@ -1,0 +1,5 @@
+module: github.com/rusfort/gocpy-test-lib
+version: 0.1.0
+build:
+  opt: 2
+  gc: boehm

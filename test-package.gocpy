@@ -1,0 +1,11 @@
+package gtl
+
+import (
+	"std/fmt"
+	"std/errors"	
+)
+
+func PrintBibaBoba() {
+	text := "Biba Boba"
+	fmt.Println(f"Hi, {text}!")
+}
